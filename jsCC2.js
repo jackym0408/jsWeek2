@@ -92,5 +92,5 @@ if (tomBMI > jerryBMI){
 }
 else(tomBMI < jerryBMI)
     jerryHigherBmi = true;
-    console.log("Is Tom's BMI higher than Jerry's? " + jerryHigherBmi);
+    console.log("Is Tom's BMI lower than Jerry's? " + jerryHigherBmi);
 
